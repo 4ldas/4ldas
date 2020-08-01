@@ -1,6 +1,2 @@
-# aldas.me
-A website about myself 
-
-## Built with ❤️ by
-
-* [Aldas](https://github.com/AXDZ) - The creator of the script
+# Aldas
+Welcome to my github! I'm Aldas Macius, also known as Aldas on the internet. I am a self-taught programmer in a variety of programming languages.
