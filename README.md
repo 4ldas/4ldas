@@ -8,6 +8,7 @@ Im Aldas and im a self taught programmer
 ---
 
 ### Programming Languages/Frameworks
+<img align="left" alt="Rust" width="100px" src="https://raw.githubusercontent.com/faith/faith/master/images/rust.png" />
 
 ---
 
