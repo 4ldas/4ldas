@@ -2,9 +2,8 @@
 Im Aldas and im a self taught programmer 
 
 ### About Me
-- I’m currently working on few open source and few closed source projects and contributing to other open source projects
-- I’m currently learning more about Rust
-- Fun fact: I <3 Coding/Open Source/Blockchain
+- I’m currently working on few projects
+- Fun fact: I <3 Coding/Open Source/Blockchain/Decentralization
 ---
 
 ### Programming Languages/Frameworks
