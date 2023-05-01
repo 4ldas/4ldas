@@ -9,7 +9,7 @@
 <h1 align="center">:man_technologist: &nbsp;About Me:</h1>
 <!-- - 🔭 I’m currently working on **my framework**-->
 <h5 align="center">🌱 I’m currently learning frontend dev</h5>
-<h5 align="center">📫 How to reach me: [aldas.me](https://aldas.me)</h5>
+<h5 align="center">📫 How to reach me: <a href="https://aldas.me">aldas.me</a></h5>
 
 ---
 
