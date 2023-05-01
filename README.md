@@ -20,3 +20,7 @@
 ### 🔥 My Statistics
 ![github overall statistics](https://github-readme-stats.vercel.app/api?username=4ldas&show_icons=true&theme=tokyonight)
 ![github language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=4ldas&show_icons=true&layout=compact&theme=tokyonight)
+
+<p align="center">
+<img src="https://github.com/bwkam/bwkam/blob/output/github-contribution-snake.svg"></img>
+</p>
