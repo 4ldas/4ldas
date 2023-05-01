@@ -25,9 +25,9 @@
 
 <h3 align="center"> &#x1f4c8; GitHub Stats: </h3>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pathetic&theme=tokyonight&show_icons=true" alt="pathetic" width="350" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathetic&theme=tokyonight&layout=compact" alt="pathetic" width="350" height="140"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pathetic&theme=tokyonight" alt="pathetic" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api?username=4ldas&theme=tokyonight&show_icons=true" alt="pathetic" width="350" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=4ldas&theme=tokyonight&layout=compact" alt="pathetic" width="350" height="140"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4ldas&theme=tokyonight" alt="pathetic" width="350" height="140"/>
 </p>
 
 <p align="center">
