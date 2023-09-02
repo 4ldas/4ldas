@@ -2,14 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">, I'm Aldas</h1>
-<h3 align="center">Full-Stack developer from Lithuania <img alt="Lithuanian flag" width="14px" height="13px" src="https://xo.wtf/image_proxy?url=https%3A%2F%2Fhotemoji.com%2Fimages%2Femoji%2F7%2Fso3ovm1sfyoi7.png&h=30a1eab60740f785d2dbf287590d84c5c05508fb8818e7a4bbe48abe8c0cdea4"></h3>
-
----
-
-<h1 align="center">:man_technologist: &nbsp;About Me:</h1>
-<!-- - 🔭 I’m currently working on **my framework**-->
-<h3 align="center">🌱 I’m currently learning frontend dev</h3>
-<h3 align="center">📫 How to reach me: <a href="https://aldas.me">aldas.me</a></h3>
+<h4 align="center">📫 How to reach me: <a href="https://aldas.me">aldas.me</a></h4>
 
 ---
 
